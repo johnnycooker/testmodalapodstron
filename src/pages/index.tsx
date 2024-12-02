@@ -1,13 +1,15 @@
-import { FC } from "react";
 
-const HomePage: FC = () => {
-	return (
-		<>
-			<div className="bg-white w-full h-full text-black">
-				Test Pierwszego deploymentu
-			</div>
-		</>
-	);
-};
-
-export default HomePage;
+      import React from 'react';
+  
+      const GeneratedPage: React.FC = () => {
+        return (
+          <div>
+            <section className="h-[50vh]" style={{ backgroundColor: "#742525" }}>
+          
+        </section>
+          </div>
+        );
+      };
+  
+      export default GeneratedPage;
+    
