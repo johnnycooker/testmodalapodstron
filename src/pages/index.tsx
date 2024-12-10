@@ -4,23 +4,16 @@
       const GeneratedPage: React.FC = () => {
         return (
           <div>
-            <section className="h-[78.5vh]" style={{ position: "relative", backgroundColor: "#a41919" }}>
-          <div className="" style={{ backgroundColor: "#289f2a", width: "83.85416666666667%", height: "81.41470180305132%", left: "1.5104166666666674%", top: "4.160887656033294%", position: "absolute" }}>
-          <div className="" style={{ backgroundColor: "#f0f0f0", width: "59.006211180124225%", height: "80.23850085178876%", left: "38.69565217391308%", top: "13.798977853492335%", position: "absolute" }}>
-          <img src="https://czat.ai/img/avatars/full-og/kotek.jpg" alt="" className="" style={{ left: "5.05263157894737%", top: "9.55414012738854%", width: "85.05263157894737%", height: "71.44373673036094%", position: "absolute" }} />
-        </div>
-        </div>
-        </section>
-<section className="h-[88.1vh]" style={{ position: "relative", backgroundColor: "#309097" }}>
-          <img src="https://czat.ai/img/avatars/full-og/kotek.jpg" alt="" className="" style={{ left: "6.197916666666666%", top: "8.271604938271606%", width: "30.52083333333333%", height: "28.641975308641975%", position: "absolute" }} />
-<img src="https://czat.ai/img/avatars/full-og/kotek.jpg" alt="" className="" style={{ left: "38.54166666666667%", top: "20.00000000000001%", width: "26.19791666666667%", height: "25.061728395061728%", position: "absolute" }} />
-<div className="" style={{ backgroundColor: "#248970", width: "17.8125%", height: "63.95061728395061%", left: "73.43749999999997%", top: "20.86419753086417%", position: "absolute" }}>
+            <section className="h-[86.9vh]" style={{ position: "relative", backgroundColor: "#213e63" }}>
+          <img src="https://czat.ai/img/avatars/full-og/kotek.jpg" alt="" className="w-[34.94791666666667%] h-[41.48936170212766%] left-[47.73134689922487%] md:left-[59.25431910569105%] xl:left-[24.010416666666664%] top-[54.380475594493106%] md:top-[54.755944931163945%] xl:top-[44.80600750938672%]" style={{ position: "absolute" }} />
+<p className="text-[24px] text-left w-[83.28367248062015%] md:w-[30.260416666666668%] h-[30.38798498122653%] md:h-[28.635794743429283%] top-[14.267834793491865%] left-[8.541666666666664%]" style={{ color: "#000000", position: "absolute" }}>
+          (argon, tlen, azot, CO2, propan, itp.). 
+Dobór odpowiednich urządzeń oraz zmiana sposobu zaopatrzenia i rozliczeń.
+Analiza dostaw i implementacja rozwiązań obniżających koszty (m.in. zmiana
+        </p>
+<div className="w-[30.208333333333343%] h-[47.05882352941176%] left-[10.465116279069774%] md:left-[44.720528455284565%] xl:left-[65.20833333333336%] top-[49.18648310387988%] md:top-[3.5043804755944943%] xl:top-[10.137672090112629%]" style={{ position: "absolute", backgroundColor: "#822626" }}>
           
         </div>
-<img src="https://czat.ai/img/avatars/full-og/kotek.jpg" alt="" className="" style={{ left: "28.645833333333346%", top: "49.382716049382765%", width: "40.260416666666664%", height: "39.01234567901235%", position: "absolute" }} />
-        </section>
-<section className="h-[50vh]" style={{ position: "relative", backgroundColor: "#f0f0f0" }}>
-          
         </section>
           </div>
         );
