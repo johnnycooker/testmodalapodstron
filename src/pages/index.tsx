@@ -1,18 +1,21 @@
 
       import React from 'react';
-  
+      import Link from 'next/link';
+
       const GeneratedPage: React.FC = () => {
         return (
           <div>
-            <section className="h-[86.9vh]" style={{ position: "relative", backgroundColor: "#213e63" }}>
-          <img src="https://czat.ai/img/avatars/full-og/kotek.jpg" alt="" className="w-[34.94791666666667%] h-[41.48936170212766%] left-[47.73134689922487%] md:left-[59.25431910569105%] xl:left-[24.010416666666664%] top-[54.380475594493106%] md:top-[54.755944931163945%] xl:top-[44.80600750938672%]" style={{ position: "absolute" }} />
-<p className="text-[24px] text-left w-[83.28367248062015%] md:w-[30.260416666666668%] h-[30.38798498122653%] md:h-[28.635794743429283%] top-[14.267834793491865%] left-[8.541666666666664%]" style={{ color: "#000000", position: "absolute" }}>
-          (argon, tlen, azot, CO2, propan, itp.). 
-Dobór odpowiednich urządzeń oraz zmiana sposobu zaopatrzenia i rozliczeń.
-Analiza dostaw i implementacja rozwiązań obniżających koszty (m.in. zmiana
+            <section className="h-[103vh] md:h-[113vh] xl:h-[103vh]" style={{ position: "relative", backgroundColor: "#641616" }}>
+          <img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg" alt="" className="w-[90.03028100775195%] md:w-[48.70299796747969%] xl:w-[37.23958333333334%] h-[28.77507919746568%] md:h-[43.66420274551214%] left-[4.407703488372091%] md:left-[2.8620426829268295%] xl:left-[8.593750000000002%] top-[17.74023231256604%] md:top-[21.04984201199209%] xl:top-[37.90918690601903%]" style={{ position: "absolute" }} />
+<nav className="flex items-center justify-between p-4 h-[16.31168831168831%]" style={{ backgroundColor: "#1b92c5" }}>
+          <div className="flex gap-4 items-center"><img src="https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg" alt="logo" className="w-[100px] md:w-[200px] h-[50px] md:h-[100px] ml:[5%] object-fill" /></div>
+<div className="flex gap-4 items-center"><Link href="/">main</Link> <Link href="/cmiczek">cmiczek</Link> <Link href="/testing">testing</Link> <Link href="/sprawdzenie">sprawdzenie</Link></div>
+        </nav>
+<div className="w-[89.19452519379848%] md:w-[40.46875%] h-[48.15205913410771%] md:h-[44.13938753959874%] left-[4.991521317829419%] md:left-[53.37779471544717%] xl:left-[50.572916666666636%] top-[47.62407602956698%] md:top-[20.838648770175745%] xl:top-[37.69799366420271%]" style={{ position: "absolute", backgroundColor: "#811ca6" }}>
+          <p className="text-[16px] md:text-[15px] xl:text-[21px] text-left w-[93.69369369369369%] h-[87.46411483253588%] top-[7.177033492822966%] left-[3.6036036036036045%]" style={{ color: "#ffffff", position: "absolute" }}>
+          Yuumi, magiczna kotka z Bandle City, była niegdyś chowańcem yordlowej czarodziejki, Norry. Gdy jej pani zniknęła w tajemniczych okolicznościach, Yuumi stała się Strażniczką żywej Księgi Wrót Norry, podróżując przez portale na jej stronach w poszukiwaniu swej właścicielki. Pragnąc miłości, Yuumi poszukuje przyjaznych towarzyszy, którzy wspomogliby ją w podróży, i chroni ich za pomocą świetlistych tarcz oraz swojej nieposkromionej odwagi. Podczas gdy Książka próbuje trzymać się wyznaczonego zadania, Yuumi często oddaje się przyziemnym przyjemnościom takim jak drzemki czy jedzenie ryb. Zawsze powraca jednak do poszukiwań swojej przyjaciółki.
+
         </p>
-<div className="w-[30.208333333333343%] h-[47.05882352941176%] left-[10.465116279069774%] md:left-[44.720528455284565%] xl:left-[65.20833333333336%] top-[49.18648310387988%] md:top-[3.5043804755944943%] xl:top-[10.137672090112629%]" style={{ position: "absolute", backgroundColor: "#822626" }}>
-          
         </div>
         </section>
           </div>
